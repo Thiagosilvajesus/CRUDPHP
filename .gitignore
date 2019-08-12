@@ -1,6 +1,7 @@
 
 
 crud.sql
+.gitignore
 
 #posso digitar o nome do arquivo ou colocar *.sql que evita de enviar todos com extesão sql
 

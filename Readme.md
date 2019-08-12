@@ -4,4 +4,4 @@
 
 ![](https://github.com/Thiagosilvajesus/Projeto-WebSite---Nodeshop/blob/master/img/HTML5.png)
 ![](https://github.com/Thiagosilvajesus/Projeto-WebSite---Nodeshop/blob/master/img/CSS3.png)
-![](https://github.com/Thiagosilvajesus/Projeto-WebSite---Nodeshop/blob/master/img/php.gif)
+![](https://github.com/Thiagosilvajesus/Projeto-WebSite---Nodeshop/blob/master/img/php.png)
